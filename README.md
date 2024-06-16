@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Neutral Minimalist Social Media Digital Product Carousel Instagram Post](https://github.com/F4fazil/kin/assets/96938666/97b13364-8485-4c38-89f1-350659ef3f10)
+
